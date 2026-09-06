@@ -48,12 +48,34 @@ The project includes visualizations for:
 
 ## 💡 Business Insights
 
-- Identified the highest-performing region based on sales.
-- Identified the top-selling products.
-- Analyzed monthly sales patterns.
-- Compared regional and product performance.
-- Used data-driven analysis to identify areas of strong sales performance.
+## Key Business Insights
 
+- **Laptop** was the best-selling product, generating sales of **₹45.21 lakh**.
+- **Mumbai** was the top-performing region, generating sales of **₹21.94 lakh**.
+- **Electronics** was the highest-selling category, generating sales of **₹59.28 lakh**.
+- **March 2025** recorded the highest monthly sales of **₹11.80 lakh**.
+- The overall **profit margin was 15.81%**.
+
+## Dashboard Features
+- Interactive Region, Category, Product and Date filters
+- KPI cards for Sales, Profit, Orders, Quantity and Profit Margin
+- Product-wise sales analysis
+- Region-wise sales analysis
+- Monthly sales trend
+- Category-wise profit analysis
+- Business insights for decision-making
+
+## Skills Demonstrated
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Power BI
+- DAX
+- Business Analysis
 ## 📁 Project Structure
 
 ```text
