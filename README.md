@@ -86,5 +86,5 @@ sales-data-analysis/
 ├── sales_analysis.ipynb
 ├── README.md
 └── requirements.txt
-├── sales_dashboard.png
-├── sales_dashboard_with_Filter.png
+├── sales_dashboard.png.png
+├── sales_dashboard_with_Filter.png.png
