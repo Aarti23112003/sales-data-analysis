@@ -46,6 +46,16 @@ The project includes visualizations for:
 - Sales by Region
 - Sales by Product
 
+## Power BI Dashboard
+
+### Dashboard Overview
+
+![Sales & Profit Performance Dashboard](sales_dashboard.png)
+
+### Interactive Dashboard with Filters
+
+![Interactive Sales Dashboard](sales_dashboard_with_Filter.png)
+
 ## 💡 Business Insights
 
 - Identified the highest-performing region based on sales.
