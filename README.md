@@ -48,8 +48,6 @@ The project includes visualizations for:
 - Sales by Region
 - Sales by Product
 
-## 💡 Business Insights
-
 ## 💡 Key Business Insights
 
 - **Laptop** was the best-selling product, generating sales of **₹45.21 lakh**.
