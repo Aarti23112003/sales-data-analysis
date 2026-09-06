@@ -14,6 +14,8 @@ The project demonstrates practical Data Analyst skills including data cleaning, 
 - Matplotlib
 - Jupyter Notebook
 - CSV Dataset
+- Power BI
+- DAX
 
 ## 🎯 Project Objectives
 
@@ -48,7 +50,7 @@ The project includes visualizations for:
 
 ## 💡 Business Insights
 
-## Key Business Insights
+## 💡 Key Business Insights
 
 - **Laptop** was the best-selling product, generating sales of **₹45.21 lakh**.
 - **Mumbai** was the top-performing region, generating sales of **₹21.94 lakh**.
@@ -86,3 +88,5 @@ sales-data-analysis/
 ├── sales_analysis.ipynb
 ├── README.md
 └── requirements.txt
+├── sales_dashboard.png
+├── sales_dashboard_with_Filter.png
