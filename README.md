@@ -50,23 +50,11 @@ The project includes visualizations for:
 
 ### Dashboard Overview
 
-![Sales & Profit Performance Dashboard](sales_dashboard.png)
+![Sales & Profit Performance Dashboard](./sales_dashboard.png)
 
 ### Interactive Dashboard with Filters
 
-![Interactive Sales Dashboard](sales_dashboard_with_Filter.png)
-
-</> Markdown
-## Power BI Dashboard
-
-### Dashboard Overview
-
-![Sales & Profit Performance Dashboard](sales_dashboard.png)
-
-### Interactive Dashboard with Filters
-
-![Interactive Sales Dashboard](sales_dashboard_with_Filter.png)
-
+![Interactive Sales Dashboard](./sales_dashboard_with_Filter.png)
 
 ## 💡 Business Insights
 
