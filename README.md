@@ -15,6 +15,7 @@ This project analyzes sales data to identify product, regional, category, and mo
 - DAX
 
 ## 📂 Project Files
+sales-data-analysis/
 ├── sales_data.csv
 ├── sales_analysis.py
 ├── sales_analysis.ipynb
