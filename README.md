@@ -17,6 +17,7 @@ This project analyzes sales data to identify product, regional, category, and mo
 ## 📁 Project Structure
 
 sales-data-analysis/
+
 ├── sales_data.csv
 ├── sales_analysis.py
 ├── sales_analysis.ipynb
