@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes sales transaction data using Python to understand sales performance, product performance, regional performance, and monthly sales trends.
-
-The project demonstrates practical Data Analyst skills including data cleaning, exploratory data analysis, aggregation, and data visualization.
+This project analyzes sales data to identify product, regional, category, and monthly sales trends. The analysis was performed using Python, and an interactive dashboard was created using Power BI.
 
 ## 🛠️ Tools & Technologies
 
@@ -13,40 +11,28 @@ The project demonstrates practical Data Analyst skills including data cleaning, 
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-- CSV Dataset
 - Power BI
 - DAX
 
-## 🎯 Project Objectives
+## 📂 Project Files
 
-- Analyze overall sales performance
-- Calculate total sales and profit
-- Identify top-performing products
-- Compare sales across different regions
-- Analyze monthly sales trends
-- Generate useful business insights
+- `sales_data.csv` – Sales dataset
+- `sales_analysis.ipynb` – Complete data analysis using Jupyter Notebook
+- `sales_analysis.py` – Python analysis script
+- `Sales_Profit_Performance_Dashboard.pbix` – Interactive Power BI dashboard
+- `sales_dashboard.png.png` – Dashboard overview
+- `sales_dashboard_with_Filter.png.png` – Interactive dashboard with filters
+- `requirements.txt` – Required Python libraries
 
 ## 📊 Analysis Performed
 
-### 1. Overall Sales & Profit
-Calculated total sales and total profit from the dataset.
-
-### 2. Regional Analysis
-Compared sales performance across different regions to identify high-performing areas.
-
-### 3. Product Analysis
-Analyzed sales by product to identify the best-performing products.
-
-### 4. Monthly Sales Trend
-Analyzed monthly sales to understand changes in sales performance over time.
-
-## 📈 Visualizations
-
-The project includes visualizations for:
-
-- Monthly Sales Trend
-- Sales by Region
-- Sales by Product
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Product-wise sales analysis
+- Region-wise sales analysis
+- Category-wise sales and profit analysis
+- Monthly sales trend analysis
+- Identification of top-performing products, regions, and categories
 
 ## 💡 Key Business Insights
 
@@ -56,35 +42,43 @@ The project includes visualizations for:
 - **March 2025** recorded the highest monthly sales of **₹11.80 lakh**.
 - The overall **profit margin was 15.81%**.
 
-## Dashboard Features
-- Interactive Region, Category, Product and Date filters
-- KPI cards for Sales, Profit, Orders, Quantity and Profit Margin
-- Product-wise sales analysis
-- Region-wise sales analysis
-- Monthly sales trend
-- Category-wise profit analysis
-- Business insights for decision-making
+## 📈 Power BI Dashboard
 
-## Skills Demonstrated
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+The interactive Power BI dashboard includes:
+
+- KPI Cards
+- Product-wise Sales Analysis
+- Region-wise Sales Analysis
+- Category-wise Performance
+- Monthly Sales Trends
+- Interactive Filters
+
+### Dashboard Overview
+
+![Sales Dashboard](./sales_dashboard.png.png)
+
+### Interactive Dashboard with Filters
+
+![Sales Dashboard with Filters](./sales_dashboard_with_Filter.png.png)
+
+## 🖥️ Power BI Dashboard File
+
+The complete interactive Power BI dashboard file is available in this repository:
+
+[Download Power BI Dashboard](./Sales_Profit_Performance_Dashboard.pbix)
+
+## 🚀 Skills Demonstrated
+
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
-- Power BI
+- Business Insights
+- Python Programming
+- Power BI Dashboard Development
 - DAX
-- Business Analysis
-## 📁 Project Structure
 
-```text
-sales-data-analysis/
-│
-├── sales_data.csv
-├── sales_analysis.py
-├── sales_analysis.ipynb
-├── README.md
-└── requirements.txt
-├── sales_dashboard.png.png
-├── sales_dashboard_with_Filter.png.png
+## 👩‍💻 Author
+
+**Aarti Walke**
+
+Aspiring Data Analyst
