@@ -14,10 +14,6 @@ This project analyzes sales data to identify product, regional, category, and mo
 - Power BI
 - DAX
 
-## 📁 Project Structure
-
-sales-data-analysis/
-│
 ├── sales_data.csv
 ├── sales_analysis.py
 ├── sales_analysis.ipynb
