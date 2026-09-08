@@ -14,15 +14,17 @@ This project analyzes sales data to identify product, regional, category, and mo
 - Power BI
 - DAX
 
-## 📂 Project Files
+## 📁 Project Structure
 
-- `sales_data.csv` – Sales dataset
-- `sales_analysis.ipynb` – Complete data analysis using Jupyter Notebook
-- `sales_analysis.py` – Python analysis script
-- `Sales_Profit_Performance_Dashboard.pbix` – Interactive Power BI dashboard
-- `sales_dashboard.png.png` – Dashboard overview
-- `sales_dashboard_with_Filter.png.png` – Interactive dashboard with filters
-- `requirements.txt` – Required Python libraries
+sales-data-analysis/
+├── sales_data.csv
+├── sales_analysis.py
+├── sales_analysis.ipynb
+├── Sales_Profit_Performance_Dashboard.pbix
+├── sales_dashboard.png.png
+├── sales_dashboard_with_Filter.png.png
+├── requirements.txt
+└── README.md
 
 ## 📊 Analysis Performed
 
