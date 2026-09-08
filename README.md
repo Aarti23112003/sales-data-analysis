@@ -13,6 +13,7 @@ This project analyzes sales data to identify product, regional, category, and mo
 - Jupyter Notebook
 - Power BI
 - DAX
+## Project Structure 
 
 ├── sales_data.csv
 ├── sales_analysis.py
